@@ -12,7 +12,7 @@
 | 6 | Pokémon: Let's Go, Pikachu! | Pokémon | Digital |
 | 7 | Pokémon Shield | Pokémon | Digital |
 | 8 | Super Bomberman R | Bomberman | Digital |
-| 9 | Super Mario 3D | Mario | Digital |
+| 9 | Super Mario 3D All-Stars | Mario | Digital |
 | 10 | Super Mario Bros. Wonder | Mario | Digital |
 | 11 | Super Mario Odyssey | Mario | Digital |
 | 12 | Super Mario Party | Mario Party | Digital |
